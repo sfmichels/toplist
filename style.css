@@ -1,0 +1,33 @@
+ .title {
+    color: white;
+    background-color: #33BEBE;
+    font-family: verdana;
+    font-size: 56px;
+    font-weight: lighter;
+    border-top: 80px;
+    padding-left: 20px;
+    padding-top: 50px;
+ }
+
+ .app {
+    display: flex;
+ }
+
+ .screenshot {
+    max-width: 460px;
+    color: #7C8B88;
+ }
+
+.description {
+   max-width: 705px;
+   font-size: 28px;
+   /* font-family: Tahoma, Verdana, Segoe, sans-serif; */
+   font-family: Tahoma, Verdana, Segoe, sans-serif;
+   padding: 5px 5px 5px 28px;
+   color: #7C8B88;
+   /* color: #939a95; */
+}
+
+* {
+  box-sizing: border-box;
+}
